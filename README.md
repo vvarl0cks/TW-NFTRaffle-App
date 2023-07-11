@@ -11,7 +11,7 @@ Simple NFT raffle application where the owner of the contract can put an NFT up 
 <a href="https://github.com/vvarl0cks/TW-NFTRaffle-App"><img src="https://iili.io/HsNGOlI.png" alt="HsNGOlI.png" border="0" /></a>   
 
 🔗 Network: Sepolia   
-🎰 URL : `deploying...⏳`   
+🎰 URL : https://warlocks-nft-raffle-app.netlify.app   
 
 ## 📄 Contracts
 

@@ -1,0 +1,2 @@
+export const LOTTERY_CONTRACT_ADDRESS = '0xb288D903057225d23828F673345DeDcEaC612937';
+export const HERO_IMAGE_URL = 'ipfs://QmVhrRrAXeQfGESazBv6CQ5CrkBQj7MVHfDqYAqYWJ4PpZ/warlocks-sync.gif';
